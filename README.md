@@ -23,3 +23,7 @@ Tech Stack:
 3) Scikit-learn
 4) Streamlit (for deployment)
 5) Joblib (model saving)
+
+🌐 Live Demo
+
+👉 Click Here to View App https://https://rishi-ml.streamlit.app
